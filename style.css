@@ -1,0 +1,18 @@
+
+body{
+  background-image: url("back.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.navbar {
+    background-color: rgba(80, 49, 49, 0.993);
+}
+.starter-template{
+    margin-top: 50px;
+    /* background-color: ; */
+}
+li{
+  color: rgb(253, 251, 251);
+  background-color: rgba(83, 83, 81, 0.397);
+ 
+}
